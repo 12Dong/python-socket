@@ -1,0 +1,6 @@
+QTextEdit{
+    background-image: url(Í·Ïñ.jpg);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-attachment: fixed; 
+}

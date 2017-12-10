@@ -1,0 +1,6 @@
+QWidget#main{
+    background-image: url(log.jpg);
+    background-position: bottom right; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
